@@ -10,7 +10,8 @@ Why it works: it is a real approval a tired engineer would paste —
 understatement, in the second sentence: the repo will one day be
 archived and unread, and so will we. No exclamation, no melodrama, no
 cry for help. The flat close, "Merging anyway.", is the punch: the
-approval stands even though the work is, in the long run, dust. The
+approval stands even though the work is dust in the long run — the
+dread stated as a scheduling fact, not a feeling. The
 laugh comes from the dread itself, not from a joke bolted on.
 
 Writes exactly that one line to /output/entry.txt (or to
